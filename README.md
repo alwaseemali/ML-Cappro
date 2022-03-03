@@ -6,4 +6,5 @@ cappro2:data wrangling
 cappro4:exploring and preparing data
 cappro5:launch sites locations analysis with folium 
 cappro6:ML prediction
-Untitled8:interactive dashboard with plotly
+interactive_dashboard:interactive dashboard with plotly
+
