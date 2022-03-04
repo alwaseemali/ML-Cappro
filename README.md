@@ -5,6 +5,6 @@ capprosql:sql notebook
 cappro2:data wrangling
 cappro4:exploring and preparing data
 cappro5:launch sites locations analysis with folium 
-cappro6:ML prediction
+ML_cappro:ML prediction
 interactive_dashboard:interactive dashboard with plotly
 
